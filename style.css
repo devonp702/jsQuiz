@@ -1,0 +1,19 @@
+h1 {
+  background-color: lightskyblue;
+  text-align: center;
+}
+
+body {
+  background-color: lightslategrey;
+}
+
+button {
+  color: blueviolet;
+  background-color: yellowgreen;
+}
+
+p {
+  background-color: lightskyblue;
+  border-style: inset;
+  border-width: 3px;
+}
